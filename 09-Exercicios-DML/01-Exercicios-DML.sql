@@ -54,6 +54,7 @@ USE COMERCIO;
 SHOW TABLES;
 
 DESC CLIENTE;
+/*
 +-----------+---------------+------+-----+---------+----------------+
 | Field     | Type          | Null | Key | Default | Extra          |
 +-----------+---------------+------+-----+---------+----------------+
@@ -63,7 +64,7 @@ DESC CLIENTE;
 | EMAIL     | varchar(50)   | YES  | UNI | NULL    |                |
 | CPF       | varchar(15)   | YES  | UNI | NULL    |                |
 +-----------+---------------+------+-----+---------+----------------+
-
+*/
 DESC ENDERECO;
 +------------+-------------+------+-----+---------+----------------+
 | Field      | Type        | Null | Key | Default | Extra          |
